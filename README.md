@@ -1,6 +1,6 @@
 # Project Description
 
-This repository features a comprehensive project developed during the 2018-2019 academic year. It consists of three primary components:
+ A comprehensive quiz project featuring Yaz Kazan (open-ended) and Çoktan Kazandım (multiple-choice) games, along with an integrated admin panel for managing questions and viewing statistics.
 
 ## Components
 
